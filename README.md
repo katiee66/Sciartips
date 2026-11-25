@@ -6,6 +6,13 @@ https://katiee66.github.io/Sciartips/
 
 https://github.com/katiee66/Sciartips
 
+# Sciar Tips – AI Log
+https://chatgpt.com/share/6b06c8a5-e704-83eb-92a5-8d930192020f
+
+## AI assistance used
+
+ChatGPT was used as an assistant during the development of the Sciar Tips prototype and the preparation of project documentation.
+
 ## My question
 
 How can a staff dashboard improve tip transparency and psychological safety while protecting individual staff privacy?
