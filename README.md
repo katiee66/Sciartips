@@ -41,6 +41,7 @@ I noticed a risk of automation bias when AI-generated marketing claims appeared 
 **SDG 10 – Reduced Inequalities:** The staff dashboard makes payout information easier to understand and includes language options to support accessibility and reduce information gaps.
 
 ## Part 4c: The Struggle
+In this project, I have tried to use ChatGPT to assist me read the file and data from Sciar, and i have created a dashboard and landing page. Also, AI had giving me the HTML/JavaScript and ask me to test the week selector, notification whehter is under working.I have asking  AI to add on some features in order to let the dashboard more user friendly, such as payout status, notification update,FAQ and data privacy. In the commit hash, I did some changing as a little problem, the staff dashboard layout opens but the week selector for Week 1–12 options are dash and blank. Overall, the project was done with the assistance AI.
 
 # Sciar Tips
 
